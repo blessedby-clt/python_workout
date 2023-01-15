@@ -1,0 +1,5 @@
+korean	95
+math	92
+english	97
+society	95
+science	89
